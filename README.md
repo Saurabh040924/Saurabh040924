@@ -22,7 +22,7 @@ Hii ! My name is Saurabh Munge
 
 ------------------------------
 * 🌍  I'm based in Aurangabad, Maharashtra
-* 🖥️  See my portfolio at [Linkedin](linkedin.com/in/saurabh-munge-9b83782a3)
+* 🖥️  See my portfolio at [Linkedin](https://www.linkedin.com/in/saurabh-munge-9b83782a3)
 * ✉️  You can contact me at [munge.saurabh007@gmail.com](mailto:munge.saurabh007@gmail.com)
 * 👥  I'm looking to collaborate on Interesting Projects, Business Analysis Peocesses
 
